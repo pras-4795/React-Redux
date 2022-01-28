@@ -1,0 +1,26 @@
+{
+  "name": "React-Redux",
+  "version": "1.0.0",
+  "description": "Redux practics sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pras-4795/React-Redux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pras-4795/React-Redux/issues"
+  },
+  "homepage": "https://github.com/pras-4795/React-Redux#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "redux": "^4.1.2",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1"
+  }
+}
